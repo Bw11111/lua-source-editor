@@ -1,3 +1,3 @@
 function editor() {
-  window.location = "https://roblox-lua-source-editor.bw1111.repl.coMonaco.html"
+  window.location = "https://Roblox-Lua-Source-Editor.bw1111.repl.co/Monaco.html"
 }
